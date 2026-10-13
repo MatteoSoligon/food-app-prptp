@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#176343">
+  <title>Dispensa | La settimana</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=DM+Serif+Display&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./css/styles.css">
+  <link rel="stylesheet" href="./css/week.css">
+  <script defer src="https://unpkg.com/lucide@0.468.0/dist/umd/lucide.min.js"></script>
+  <script defer src="./js/week.js"></script>
+</head>
+<body class="week-app" data-dishes-url="./data/dishes.json" data-meals-url="./data/meals.json">
+  <a class="skip-link" href="#week-board">Vai alla settimana</a>
+  <header class="topbar">
+    <a class="brand" href="./index.html" aria-label="Dispensa, settimana"><span class="brand-mark"><i data-lucide="leaf" aria-hidden="true"></i></span>Dispensa</a>
+    
+  </header>
+  <main class="week-main">
+    <div id="loading" class="empty" role="status">Caricamento piatti...</div>
+    <div id="week-error" class="empty" role="alert" hidden><h1>Piatti non disponibili</h1><p id="week-error-message"></p><button id="week-retry" class="primary-button" type="button"><i data-lucide="rotate-cw" aria-hidden="true"></i>Riprova</button></div>
+    <section id="board-view" hidden aria-labelledby="week-title">
+      <div class="week-heading"><h1 id="week-title">Settimana</h1></div>
+      <div id="type-legend" class="type-legend" aria-label="Tipi di piatto"></div>
+      <p id="selection-status" class="sr-only" role="status" aria-live="polite">35 pasti</p>
+      <div id="week-board" class="board-scroll" tabindex="0" role="region" aria-label="Menu settimanale" aria-busy="false">
+        <table class="week-table"><caption class="sr-only">Menu settimanale, dal giorno 1 al giorno 7</caption><colgroup><col class="day-column"><col span="5" class="meal-column"></colgroup><thead id="board-head"></thead><tbody id="board-body"></tbody></table>
+      </div>
+    </section>
+    <section id="meal-view" hidden aria-labelledby="meal-title" tabindex="-1">
+      <a href="#" id="back-to-week" class="back-link"><i data-lucide="arrow-left" aria-hidden="true"></i>Settimana</a>
+      <div class="recipe-heading"><p id="meal-context" class="eyebrow"></p><h1 id="meal-title"></h1><div id="meal-tags" class="recipe-tags"></div></div>
+      <section class="recipe-section" aria-labelledby="ingredients-title"><h2 id="ingredients-title">Ingredienti</h2><ul id="meal-ingredients" class="recipe-ingredients"></ul><p id="ingredients-empty" hidden>Ingredienti non indicati.</p></section>
+      <section class="recipe-section" aria-labelledby="recipe-title"><h2 id="recipe-title">Preparazione</h2><p id="meal-recipe"></p></section>
+      <section id="meal-notes-section" class="recipe-section" aria-labelledby="meal-notes-title" hidden><h2 id="meal-notes-title">Note del pasto</h2><p id="meal-notes"></p></section>
+      <section class="recipe-section" aria-labelledby="swap-title"><h2 id="swap-title">Piatto del giorno</h2><label class="sr-only" for="meal-choice">Scegli il piatto per questo pasto</label><select id="meal-choice"></select><p id="save-status" role="status" aria-live="polite"></p></section>
+    </section>
+  </main>
+  <div id="selection-bar" class="selection-bar" hidden><div class="selection-bar-inner"><div class="selection-copy"><span id="selected-context"></span><strong id="selected-title"></strong></div><button id="clear-selection" type="button" class="icon-button" title="Deseleziona piatto" aria-label="Deseleziona piatto"><i data-lucide="x" aria-hidden="true"></i><span class="close-fallback">&times;</span></button><a id="open-meal" class="primary-button" href="#"><span>Dettagli</span><i data-lucide="arrow-up-right" aria-hidden="true"></i></a></div></div>
+</body>
+</html>

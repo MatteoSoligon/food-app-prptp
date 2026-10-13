@@ -1,0 +1,742 @@
+[
+  {
+    "Piatto_ID": "P01",
+    "Nome_Piatto": "Porridge con cioccolato/frutta secca e frutto",
+    "Categoria": "Colazione",
+    "Type": "",
+    "Istruzioni_Preparazione_Ricetta": "Scaldare 150ml latte + 50ml acqua. Aggiungere 40-50g avena fino a densità. Unire mela/banana a pezzetti, frutta secca o cioccolato. (Opzione overnight: ammollo in frigo dalla sera).",
+    "ingredients": [
+      {
+        "name": "Fiocchi d'avena",
+        "quantity": "40-50 g",
+        "notes": "Base porridge"
+      },
+      {
+        "name": "Latte o bevanda vegetale",
+        "quantity": "150 ml",
+        "notes": ""
+      },
+      {
+        "name": "Acqua",
+        "quantity": "50 ml",
+        "notes": ""
+      },
+      {
+        "name": "Cioccolato fondente o Frutta secca",
+        "quantity": "10 g o 15 g",
+        "notes": "Alternativa"
+      },
+      {
+        "name": "Frutto",
+        "quantity": "1",
+        "notes": "Mela o banana"
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P02",
+    "Nome_Piatto": "Triangolini Sì&No mix mais e legumi",
+    "Categoria": "Spuntino",
+    "Type": "",
+    "Istruzioni_Preparazione_Ricetta": "Pronto al consumo.",
+    "ingredients": [
+      {
+        "name": "Triangolini Sì&No mix mais e legumi",
+        "quantity": "20 g",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P03",
+    "Nome_Piatto": "Pasta di farro/integrale al pomodoro con tonno",
+    "Categoria": "Pranzo",
+    "Type": "2",
+    "Istruzioni_Preparazione_Ricetta": "Lessare la pasta, condire con pomodoro/verdura e tonno. Guarnire con olio EVO.",
+    "ingredients": [
+      {
+        "name": "Pasta di farro o integrale",
+        "quantity": "70-80 g",
+        "notes": ""
+      },
+      {
+        "name": "Pomodoro o Verdura",
+        "quantity": "q.b.",
+        "notes": "Condimento"
+      },
+      {
+        "name": "Tonno",
+        "quantity": "70 g",
+        "notes": ""
+      },
+      {
+        "name": "Verdura",
+        "quantity": "1 porzione",
+        "notes": "Contorno"
+      },
+      {
+        "name": "Olio EVO",
+        "quantity": "1 cucchiaio",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P04",
+    "Nome_Piatto": "Yogurt bianco / Kefir con frutto",
+    "Categoria": "Spuntino",
+    "Type": "",
+    "Istruzioni_Preparazione_Ricetta": "Servire lo yogurt o kefir accompagnato da 1 frutto fresco.",
+    "ingredients": [
+      {
+        "name": "Yogurt bianco intero o Kefir bianco",
+        "quantity": "125 g o 150 g",
+        "notes": ""
+      },
+      {
+        "name": "Frutto",
+        "quantity": "1",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P05",
+    "Nome_Piatto": "Tacchino con verdura e wasa/riso",
+    "Categoria": "Cena",
+    "Type": "1",
+    "Istruzioni_Preparazione_Ricetta": "Cuocere la carne magra alla piastra. Servire con verdura di stagione, olio EVO e wasa/crackers o riso basmati.",
+    "ingredients": [
+      {
+        "name": "Carne magra (es. tacchino)",
+        "quantity": "150 g",
+        "notes": ""
+      },
+      {
+        "name": "Verdura",
+        "quantity": "1 porzione",
+        "notes": ""
+      },
+      {
+        "name": "Wasa / Crackers o Riso basmati/couscous",
+        "quantity": "30 g o 40 g",
+        "notes": "Alternativa carboidrato"
+      },
+      {
+        "name": "Olio EVO",
+        "quantity": "1 cucchiaio",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P06",
+    "Nome_Piatto": "Pane di segale con uovo e frutto",
+    "Categoria": "Colazione",
+    "Type": "",
+    "Istruzioni_Preparazione_Ricetta": "Tostare il pane, cuocere l'uovo a piacere (sodo, occhio di bue, strapazzato) e completare con un frutto.",
+    "ingredients": [
+      {
+        "name": "Pane di segale o cereali",
+        "quantity": "60 g",
+        "notes": ""
+      },
+      {
+        "name": "Uovo",
+        "quantity": "1",
+        "notes": ""
+      },
+      {
+        "name": "Frutto",
+        "quantity": "1",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P07",
+    "Nome_Piatto": "Frutto con frutta secca o crema 100%",
+    "Categoria": "Spuntino",
+    "Type": "",
+    "Istruzioni_Preparazione_Ricetta": "Consumare il frutto fresco intero insieme alla frutta secca o crema 100%.",
+    "ingredients": [
+      {
+        "name": "Frutto",
+        "quantity": "1",
+        "notes": ""
+      },
+      {
+        "name": "Frutta secca (o crema 100%)",
+        "quantity": "10 g",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P08",
+    "Nome_Piatto": "Pasta di legumi con verdura e olio/pesto",
+    "Categoria": "Pranzo",
+    "Type": "4",
+    "Istruzioni_Preparazione_Ricetta": "Lessare la pasta di legumi, saltare con le verdure e condire con olio o pesto.",
+    "ingredients": [
+      {
+        "name": "Pasta di legumi",
+        "quantity": "90-100 g",
+        "notes": ""
+      },
+      {
+        "name": "Verdura",
+        "quantity": "1 porzione",
+        "notes": ""
+      },
+      {
+        "name": "Olio EVO o Pesto",
+        "quantity": "1 cucc. o 2 cucch.",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P09",
+    "Nome_Piatto": "Piadina con Hummus di ceci e verdure",
+    "Categoria": "Pranzo",
+    "Type": "4",
+    "Istruzioni_Preparazione_Ricetta": "[Piadina]: 300g farina (farro/tipo 1), 160ml acqua, 2 cucc olio, sale. Stendere in 5 palline e cuocere su testo. [Hummus]: frullare 250g ceci, limone, aglio, 1 cucc tahina, 2-3 cucc olio, sale, pepe e ½ bicchiere d'acqua.",
+    "ingredients": [
+      {
+        "name": "Farina di farro / grano saraceno / tipo 1",
+        "quantity": "60 g",
+        "notes": "Per 1 piadina (da ricetta 300g per 5 pz)"
+      },
+      {
+        "name": "Olio EVO",
+        "quantity": "1.5 cucchiai",
+        "notes": "0.4 cucc per piadina + 1 cucc per hummus"
+      },
+      {
+        "name": "Ceci lessi",
+        "quantity": "120 g",
+        "notes": "Per porzione di Hummus"
+      },
+      {
+        "name": "Salsa Tahina",
+        "quantity": "½ cucchiaio",
+        "notes": ""
+      },
+      {
+        "name": "Succo di limone, aglio, sale e pepe",
+        "quantity": "q.b.",
+        "notes": ""
+      },
+      {
+        "name": "Verdura",
+        "quantity": "2 porzioni",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P10",
+    "Nome_Piatto": "Gallette ricoperte di cioccolato fondente",
+    "Categoria": "Spuntino",
+    "Type": "",
+    "Istruzioni_Preparazione_Ricetta": "Pronto al consumo.",
+    "ingredients": [
+      {
+        "name": "Gallette ricoperte di cioccolato fondente",
+        "quantity": "2",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P11",
+    "Nome_Piatto": "Pesce (platessa) con patate ed olio EVO",
+    "Categoria": "Cena",
+    "Type": "2",
+    "Istruzioni_Preparazione_Ricetta": "Cuocere la platessa al vapore o al forno. Aggiungere le patate lesse o al forno e verdure di contorno.",
+    "ingredients": [
+      {
+        "name": "Pesce (es. platessa)",
+        "quantity": "180-200 g",
+        "notes": ""
+      },
+      {
+        "name": "Patate lesse o al forno",
+        "quantity": "170 g",
+        "notes": ""
+      },
+      {
+        "name": "Verdura",
+        "quantity": "1 porzione",
+        "notes": ""
+      },
+      {
+        "name": "Olio EVO",
+        "quantity": "1 cucchiaio",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P12",
+    "Nome_Piatto": "Muesli casalingo con yogurt/kefir e frutto",
+    "Categoria": "Colazione",
+    "Type": "",
+    "Istruzioni_Preparazione_Ricetta": "[Ricetta Muesli 500g]: miscelare 200g avena, 100g cereali soffiati, 100g frutta secca/semi, 50g frutta disidratata, 50g cioccolato/cocco. Servire 40g nel latte/yogurt con 1 frutto.",
+    "ingredients": [
+      {
+        "name": "Muesli casalingo",
+        "quantity": "40 g",
+        "notes": "Vedi ricetta Muesli nei Piatti"
+      },
+      {
+        "name": "Yogurt bianco intero o Kefir bianco",
+        "quantity": "125 g o 150 g",
+        "notes": ""
+      },
+      {
+        "name": "Frutto",
+        "quantity": "1",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P13",
+    "Nome_Piatto": "Wasa con grana o ricotta",
+    "Categoria": "Spuntino",
+    "Type": "",
+    "Istruzioni_Preparazione_Ricetta": "Adagiare il grana a scaglie o un velo di ricotta sulle fettine di wasa.",
+    "ingredients": [
+      {
+        "name": "Wasa",
+        "quantity": "2",
+        "notes": ""
+      },
+      {
+        "name": "Grana o Ricotta",
+        "quantity": "10-20 g o 1 velo",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P14",
+    "Nome_Piatto": "Pasta di farro/riso venere con legumi",
+    "Categoria": "Pranzo",
+    "Type": "4",
+    "Istruzioni_Preparazione_Ricetta": "Lessare la pasta/riso ed unire i legumi lessi (ceci o ragù di lenticchie) con verdura e olio EVO.",
+    "ingredients": [
+      {
+        "name": "Pasta di farro / riso venere",
+        "quantity": "70-80 g",
+        "notes": ""
+      },
+      {
+        "name": "Legumi a cotto (es. ceci/lenticchie)",
+        "quantity": "120 g",
+        "notes": ""
+      },
+      {
+        "name": "Verdura",
+        "quantity": "1 porzione",
+        "notes": ""
+      },
+      {
+        "name": "Olio EVO",
+        "quantity": "1 cucchiaio",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P15",
+    "Nome_Piatto": "Yogurt greco con cacao, cannella e scaglie di cioccolato",
+    "Categoria": "Spuntino",
+    "Type": "",
+    "Istruzioni_Preparazione_Ricetta": "Unire allo yogurt greco il cacao/cannella e le scaglie di cioccolato fondente. Servire con 1 frutto.",
+    "ingredients": [
+      {
+        "name": "Yogurt greco",
+        "quantity": "2 cucchiai",
+        "notes": ""
+      },
+      {
+        "name": "Frutto",
+        "quantity": "1",
+        "notes": ""
+      },
+      {
+        "name": "Cacao o cannella",
+        "quantity": "q.b.",
+        "notes": ""
+      },
+      {
+        "name": "Scagliette di cioccolato fondente",
+        "quantity": "10 g",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P16",
+    "Nome_Piatto": "Minestrone/vellutata con formaggio fresco e crostini",
+    "Categoria": "Cena",
+    "Type": "3",
+    "Istruzioni_Preparazione_Ricetta": "Scaldare il minestrone o vellutata, unire ricotta/mozzarella fresca e accompagnare con crostini o wasa.",
+    "ingredients": [
+      {
+        "name": "Minestrone o vellutata",
+        "quantity": "1 porzione",
+        "notes": ""
+      },
+      {
+        "name": "Formaggio fresco (ricotta/mozzarella)",
+        "quantity": "100 g",
+        "notes": ""
+      },
+      {
+        "name": "Wasa o crostini di pane",
+        "quantity": "30 g",
+        "notes": ""
+      },
+      {
+        "name": "Olio EVO",
+        "quantity": "1 cucchiaio",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P17",
+    "Nome_Piatto": "Pane di segale con salmone affumicato e frutto",
+    "Categoria": "Colazione",
+    "Type": "",
+    "Istruzioni_Preparazione_Ricetta": "Adagiare il salmone affumicato selvaggio sul pane di segale. Accompagnare con 1 frutto.",
+    "ingredients": [
+      {
+        "name": "Pane di segale o cereali",
+        "quantity": "60 g",
+        "notes": ""
+      },
+      {
+        "name": "Salmone affumicato selvaggio",
+        "quantity": "40 g",
+        "notes": ""
+      },
+      {
+        "name": "Frutto",
+        "quantity": "1",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P18",
+    "Nome_Piatto": "Straccetti di pollo con verdura e pane integrale",
+    "Categoria": "Pranzo",
+    "Type": "1",
+    "Istruzioni_Preparazione_Ricetta": "Saltare gli straccetti in padella con spezie e verdure. Servire con pane integrale ed olio EVO.",
+    "ingredients": [
+      {
+        "name": "Carne magra (es. straccetti di pollo)",
+        "quantity": "150 g",
+        "notes": ""
+      },
+      {
+        "name": "Verdura",
+        "quantity": "1 porzione",
+        "notes": ""
+      },
+      {
+        "name": "Pane ai cereali o integrale",
+        "quantity": "50 g",
+        "notes": ""
+      },
+      {
+        "name": "Olio EVO",
+        "quantity": "1 cucchiaio",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P19",
+    "Nome_Piatto": "Uova con verdura/vellutata e pane",
+    "Categoria": "Cena",
+    "Type": "5",
+    "Istruzioni_Preparazione_Ricetta": "Cucinare le 2 uova a piacere. Servire con verdura di contorno o vellutata e pane di segale.",
+    "ingredients": [
+      {
+        "name": "Uova",
+        "quantity": "2",
+        "notes": ""
+      },
+      {
+        "name": "Verdura (anche come vellutata)",
+        "quantity": "1 porzione",
+        "notes": ""
+      },
+      {
+        "name": "Pane di segale o integrale",
+        "quantity": "50 g",
+        "notes": ""
+      },
+      {
+        "name": "Olio EVO",
+        "quantity": "1 cucchiaio",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P20",
+    "Nome_Piatto": "Frutto con cioccolato fondente",
+    "Categoria": "Spuntino",
+    "Type": "",
+    "Istruzioni_Preparazione_Ricetta": "Consumare il frutto con 10g di cioccolato fondente.",
+    "ingredients": [
+      {
+        "name": "Frutto",
+        "quantity": "1",
+        "notes": ""
+      },
+      {
+        "name": "Cioccolato fondente",
+        "quantity": "10 g",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P21",
+    "Nome_Piatto": "Couscous/farro/riso rosso con piselli e verdure",
+    "Categoria": "Pranzo",
+    "Type": "4",
+    "Istruzioni_Preparazione_Ricetta": "Lessare il cereale ed unire i piselli e la porzione di verdura conditi con olio EVO.",
+    "ingredients": [
+      {
+        "name": "Couscous / farro / riso rosso",
+        "quantity": "70-80 g",
+        "notes": ""
+      },
+      {
+        "name": "Legumi a cotto (es. piselli)",
+        "quantity": "120 g",
+        "notes": ""
+      },
+      {
+        "name": "Verdura",
+        "quantity": "1 porzione",
+        "notes": ""
+      },
+      {
+        "name": "Olio EVO",
+        "quantity": "1 cucchiaio",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P22",
+    "Nome_Piatto": "Fette biscottate con ricotta e marmellata/miele",
+    "Categoria": "Spuntino",
+    "Type": "",
+    "Istruzioni_Preparazione_Ricetta": "Spalmare sulle fette biscottate un velo di ricotta ed un velo di marmellata o miele.",
+    "ingredients": [
+      {
+        "name": "Fette biscottate",
+        "quantity": "2",
+        "notes": ""
+      },
+      {
+        "name": "Ricotta",
+        "quantity": "1 velo",
+        "notes": ""
+      },
+      {
+        "name": "Marmellata o miele",
+        "quantity": "1 velo",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P23",
+    "Nome_Piatto": "Filetto di pesce con polenta e verdure",
+    "Categoria": "Cena",
+    "Type": "2",
+    "Istruzioni_Preparazione_Ricetta": "Cuocere il filetto di pesce (es. platessa). Servire con la polenta cotta e verdura condita con olio EVO.",
+    "ingredients": [
+      {
+        "name": "Filetto di pesce (es. platessa)",
+        "quantity": "180-200 g",
+        "notes": ""
+      },
+      {
+        "name": "Polenta (a cotto)",
+        "quantity": "150 g",
+        "notes": ""
+      },
+      {
+        "name": "Verdura",
+        "quantity": "1 porzione",
+        "notes": ""
+      },
+      {
+        "name": "Olio EVO",
+        "quantity": "1 cucchiaio",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P24",
+    "Nome_Piatto": "Pane integrale / fette biscottate con crema e marmellata",
+    "Categoria": "Colazione",
+    "Type": "",
+    "Istruzioni_Preparazione_Ricetta": "Spalmare il pane o le fette biscottate con ricotta o crema di frutta secca 100% e marmellata.",
+    "ingredients": [
+      {
+        "name": "Pane integrale o Fette biscottate",
+        "quantity": "70 g o 3-4",
+        "notes": ""
+      },
+      {
+        "name": "Ricotta o Crema di frutta secca",
+        "quantity": "1 velo",
+        "notes": ""
+      },
+      {
+        "name": "Marmellata",
+        "quantity": "1 velo",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P25",
+    "Nome_Piatto": "Burger di ceci veg con verdure",
+    "Categoria": "Pranzo",
+    "Type": "4",
+    "Istruzioni_Preparazione_Ricetta": "[Ricetta Burger]: frullare 240g ceci, 150g patate lesse (bollite 20 min), 80g zucchina cruda, 1 cucc cipolla soffritta, erbe, sale e pepe. Unire 2-3 cucc pangrattato, formare burger e infornare a 220°C per 20 min con un filo d'olio.",
+    "ingredients": [
+      {
+        "name": "Burger di ceci veg",
+        "quantity": "200 g",
+        "notes": "Vedi ricetta Burger nei Piatti"
+      },
+      {
+        "name": "Verdura",
+        "quantity": "1 porzione",
+        "notes": ""
+      },
+      {
+        "name": "Olio EVO",
+        "quantity": "1 cucchiaio",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P25-FRU",
+    "Nome_Piatto": "Frutto fresco di stagione",
+    "Categoria": "Spuntino",
+    "Type": "",
+    "Istruzioni_Preparazione_Ricetta": "1 frutto fresco a scelta.",
+    "ingredients": [
+      {
+        "name": "Frutto",
+        "quantity": "1",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P26",
+    "Nome_Piatto": "Pasto preferito (Pizza)",
+    "Categoria": "Cena",
+    "Type": "",
+    "Istruzioni_Preparazione_Ricetta": "Pasto libero.",
+    "ingredients": [
+      {
+        "name": "Pasto preferito (es. pizza)",
+        "quantity": "1 porzione",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P27",
+    "Nome_Piatto": "Gnocchi / pasta con ragù magro e verdure",
+    "Categoria": "Pranzo",
+    "Type": "1",
+    "Istruzioni_Preparazione_Ricetta": "Cuocere gli gnocchi o la pasta di farro, condire con ragù di carne magra, verdura ed olio EVO.",
+    "ingredients": [
+      {
+        "name": "Gnocchi o Pasta di farro",
+        "quantity": "170 g o 70 g",
+        "notes": ""
+      },
+      {
+        "name": "Ragù di carne magra",
+        "quantity": "40 g",
+        "notes": ""
+      },
+      {
+        "name": "Verdura",
+        "quantity": "1 porzione",
+        "notes": ""
+      },
+      {
+        "name": "Olio EVO",
+        "quantity": "1 cucchiaio",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P28",
+    "Nome_Piatto": "Gelato o fetta di dolce",
+    "Categoria": "Spuntino",
+    "Type": "",
+    "Istruzioni_Preparazione_Ricetta": "2 palline di gelato o 1 fetta di dolce a scelta.",
+    "ingredients": [
+      {
+        "name": "Gelato o Dolce",
+        "quantity": "2 palline o 1 fetta",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "Piatto_ID": "P29",
+    "Nome_Piatto": "Minestrone/zuppa con uovo e crostini",
+    "Categoria": "Cena",
+    "Type": "5",
+    "Istruzioni_Preparazione_Ricetta": "Scaldare la zuppa di verdura e legumi, unire 1 uovo in camicia o sodo e servire con crostini e olio EVO.",
+    "ingredients": [
+      {
+        "name": "Minestrone / zuppa verdura e legumi",
+        "quantity": "1 porzione",
+        "notes": ""
+      },
+      {
+        "name": "Uovo",
+        "quantity": "1",
+        "notes": ""
+      },
+      {
+        "name": "Crostini o Wasa",
+        "quantity": "30 g",
+        "notes": ""
+      },
+      {
+        "name": "Olio EVO",
+        "quantity": "1 cucchiaio",
+        "notes": ""
+      }
+    ]
+  }
+]

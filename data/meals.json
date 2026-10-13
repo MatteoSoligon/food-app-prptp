@@ -1,0 +1,247 @@
+[
+  {
+    "Pasto_ID": "G1-COL",
+    "Giorno": "Giorno 1",
+    "Tipo_Pasto": "Colazione",
+    "Piatto_ID": "P01",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G1-SM",
+    "Giorno": "Giorno 1",
+    "Tipo_Pasto": "Spuntino Mattina",
+    "Piatto_ID": "P02",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G1-PRA",
+    "Giorno": "Giorno 1",
+    "Tipo_Pasto": "Pranzo",
+    "Piatto_ID": "P03",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G1-SP",
+    "Giorno": "Giorno 1",
+    "Tipo_Pasto": "Spuntino Pomeriggio",
+    "Piatto_ID": "P04",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G1-CEN",
+    "Giorno": "Giorno 1",
+    "Tipo_Pasto": "Cena",
+    "Piatto_ID": "P05",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G2-COL",
+    "Giorno": "Giorno 2",
+    "Tipo_Pasto": "Colazione",
+    "Piatto_ID": "P06",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G2-SM",
+    "Giorno": "Giorno 2",
+    "Tipo_Pasto": "Spuntino Mattina",
+    "Piatto_ID": "P07",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G2-PRA",
+    "Giorno": "Giorno 2",
+    "Tipo_Pasto": "Pranzo",
+    "Piatto_ID": "P08",
+    "Note_Pasto": "Opzione alternativa: P09 (Piadina + Hummus)"
+  },
+  {
+    "Pasto_ID": "G2-SP",
+    "Giorno": "Giorno 2",
+    "Tipo_Pasto": "Spuntino Pomeriggio",
+    "Piatto_ID": "P10",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G2-CEN",
+    "Giorno": "Giorno 2",
+    "Tipo_Pasto": "Cena",
+    "Piatto_ID": "P11",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G3-COL",
+    "Giorno": "Giorno 3",
+    "Tipo_Pasto": "Colazione",
+    "Piatto_ID": "P12",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G3-SM",
+    "Giorno": "Giorno 3",
+    "Tipo_Pasto": "Spuntino Mattina",
+    "Piatto_ID": "P13",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G3-PRA",
+    "Giorno": "Giorno 3",
+    "Tipo_Pasto": "Pranzo",
+    "Piatto_ID": "P14",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G3-SP",
+    "Giorno": "Giorno 3",
+    "Tipo_Pasto": "Spuntino Pomeriggio",
+    "Piatto_ID": "P15",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G3-CEN",
+    "Giorno": "Giorno 3",
+    "Tipo_Pasto": "Cena",
+    "Piatto_ID": "P16",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G4-COL",
+    "Giorno": "Giorno 4",
+    "Tipo_Pasto": "Colazione",
+    "Piatto_ID": "P17",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G4-SM",
+    "Giorno": "Giorno 4",
+    "Tipo_Pasto": "Spuntino Mattina",
+    "Piatto_ID": "P02",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G4-PRA",
+    "Giorno": "Giorno 4",
+    "Tipo_Pasto": "Pranzo",
+    "Piatto_ID": "P18",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G4-SP",
+    "Giorno": "Giorno 4",
+    "Tipo_Pasto": "Spuntino Pomeriggio",
+    "Piatto_ID": "P07",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G4-CEN",
+    "Giorno": "Giorno 4",
+    "Tipo_Pasto": "Cena",
+    "Piatto_ID": "P19",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G5-COL",
+    "Giorno": "Giorno 5",
+    "Tipo_Pasto": "Colazione",
+    "Piatto_ID": "P01",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G5-SM",
+    "Giorno": "Giorno 5",
+    "Tipo_Pasto": "Spuntino Mattina",
+    "Piatto_ID": "P20",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G5-PRA",
+    "Giorno": "Giorno 5",
+    "Tipo_Pasto": "Pranzo",
+    "Piatto_ID": "P21",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G5-SP",
+    "Giorno": "Giorno 5",
+    "Tipo_Pasto": "Spuntino Pomeriggio",
+    "Piatto_ID": "P22",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G5-CEN",
+    "Giorno": "Giorno 5",
+    "Tipo_Pasto": "Cena",
+    "Piatto_ID": "P23",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G6-COL",
+    "Giorno": "Giorno 6",
+    "Tipo_Pasto": "Colazione",
+    "Piatto_ID": "P24",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G6-SM",
+    "Giorno": "Giorno 6",
+    "Tipo_Pasto": "Spuntino Mattina",
+    "Piatto_ID": "P25-FRU",
+    "Note_Pasto": "Solo 1 frutto"
+  },
+  {
+    "Pasto_ID": "G6-PRA",
+    "Giorno": "Giorno 6",
+    "Tipo_Pasto": "Pranzo",
+    "Piatto_ID": "P25",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G6-SP",
+    "Giorno": "Giorno 6",
+    "Tipo_Pasto": "Spuntino Pomeriggio",
+    "Piatto_ID": "P15",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G6-CEN",
+    "Giorno": "Giorno 6",
+    "Tipo_Pasto": "Cena",
+    "Piatto_ID": "P26",
+    "Note_Pasto": "Pasto preferito"
+  },
+  {
+    "Pasto_ID": "G7-COL",
+    "Giorno": "Giorno 7",
+    "Tipo_Pasto": "Colazione",
+    "Piatto_ID": "P12",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G7-SM",
+    "Giorno": "Giorno 7",
+    "Tipo_Pasto": "Spuntino Mattina",
+    "Piatto_ID": "P25-FRU",
+    "Note_Pasto": "Solo 1 frutto"
+  },
+  {
+    "Pasto_ID": "G7-PRA",
+    "Giorno": "Giorno 7",
+    "Tipo_Pasto": "Pranzo",
+    "Piatto_ID": "P27",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G7-SP",
+    "Giorno": "Giorno 7",
+    "Tipo_Pasto": "Spuntino Pomeriggio",
+    "Piatto_ID": "P28",
+    "Note_Pasto": ""
+  },
+  {
+    "Pasto_ID": "G7-CEN",
+    "Giorno": "Giorno 7",
+    "Tipo_Pasto": "Cena",
+    "Piatto_ID": "P29",
+    "Note_Pasto": ""
+  }
+]
